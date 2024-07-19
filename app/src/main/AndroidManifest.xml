@@ -25,7 +25,7 @@
             <!-- Edit android:value to change the url opened by the Trusted Web Activity -->
             <meta-data
                 android:name="android.support.customtabs.trusted.DEFAULT_URL"
-                android:value="https://airhorner.com" />
+                android:value="http://splash-dot-cobalt-tools.wn.r.appspot.com/" />
 
             <!-- This intent-filter adds the Trusted Web Activity to the Android Launcher -->
             <intent-filter>
